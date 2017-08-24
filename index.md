@@ -3,3 +3,12 @@ GitHub Pages is a static site hosting service.GitHub Pages is designed to host a
 One can easily code a wabsite using the GITHUB
 <p align="center">
 <img src="https://avatars0.githubusercontent.com/u/4668121?v=3&s=460"> </p>
+
+## Usage limits
+
+*GitHub Pages sites are subject to the following usage limits:*
+
+- GitHub Pages source repositories have a recommended limit of 1GB .
+- Published GitHub Pages sites may be no larger than 1 GB.
+- GitHub Pages sites have a soft bandwidth limit of 100GB per month.
+- GitHub Pages sites have a soft limit of 10 builds per hour.
